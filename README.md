@@ -91,22 +91,6 @@ Dedicated software developer with a passion for creating innovative mobile and w
 <!-- Project Cards with Animation -->
 <h2> 🔭 Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<div align="center">
-  <a href="https://github.com/Ravindu-Dev/PetGlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravindu-Dev&repo=PetGlow&theme=radical" alt="PetGlow">
-  </a>
-  <a href="https://github.com/Ravindu-Dev/Wellness-Health-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravindu-Dev&repo=Wellness-Health-App&theme=radical" alt="Wellness-Health-App">
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Ravindu-Dev/FitnessApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravindu-Dev&repo=FitnessApp&theme=radical" alt="FitnessApp">
-  </a>
-  <a href="https://github.com/OsandaMadugalle/WildLanka">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OsandaMadugalle&repo=WildLanka&theme=radical" alt="WildLanka">
-  </a>
-</div>
 
 ### 🐾 [PetGlow](https://github.com/Ravindu-Dev/PetGlow)
 A comprehensive pet care application designed to help pet owners manage their pets' health, nutrition, and activities.
