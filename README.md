@@ -1,29 +1,43 @@
+<!-- Animated Header with Gradient Background -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ravindu%20Bandara&fontSize=70&animation=fadeIn&fontAlignY=35&customColorList=24" alt="header">
+</div>
+
 <!-- Header Buttons -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Ravindu-Dev">
     <img src="https://img.shields.io/badge/WELCOME-grey?style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Ravindu-Dev">
     <img src="https://img.shields.io/badge/TO%20MY%20GITHUB-8A2BE2?style=for-the-badge" />
   </a>
 </p>
 
-<!-- Title -->
-<h1 align="center">Hi 👋, I'm Ravindu Bandara</h1>
+<!-- Title with Animated Hand Wave -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ravindu Bandara</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast)](https://git.io/typing-svg)
+<!-- Animated Text -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" /></a>
+</p>
 
----
+<hr style="border: 1px solid #BB2CD9; background-color: #BB2CD9; height: 2px">
 
 <!-- Subtitle -->
 <h3 align="center">2nd Year Undergraduate | Information Technology (IT) @ SLIIT 🎓</h3>
 
-<!-- Center Image -->
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ravindu-Dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
+
+<!-- Center Image with Code Animation -->
 <p align="center">
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
----
+<hr style="border: 1px dashed #00FFFF; background-color: transparent">
+
 ## 🚀 About Me
 
 Dedicated software developer with a passion for creating innovative mobile and web applications focused on health, wellness, and fitness. I specialize in developing user-friendly applications that help people improve their quality of life.
@@ -74,7 +88,25 @@ Dedicated software developer with a passion for creating innovative mobile and w
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
 </p>
 
-## 🔭 Projects
+<!-- Project Cards with Animation -->
+<h2> 🔭 Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
+<div align="center">
+  <a href="https://github.com/Ravindu-Dev/PetGlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravindu-Dev&repo=PetGlow&theme=radical" alt="PetGlow">
+  </a>
+  <a href="https://github.com/Ravindu-Dev/Wellness-Health-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravindu-Dev&repo=Wellness-Health-App&theme=radical" alt="Wellness-Health-App">
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Ravindu-Dev/FitnessApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravindu-Dev&repo=FitnessApp&theme=radical" alt="FitnessApp">
+  </a>
+  <a href="https://github.com/OsandaMadugalle/WildLanka">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OsandaMadugalle&repo=WildLanka&theme=radical" alt="WildLanka">
+  </a>
+</div>
 
 ### 🐾 [PetGlow](https://github.com/Ravindu-Dev/PetGlow)
 A comprehensive pet care application designed to help pet owners manage their pets' health, nutrition, and activities.
@@ -88,7 +120,8 @@ A complete fitness solution with workout tracking, nutrition planning, and progr
 ### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka) (Contributor)
 A project aimed at promoting wildlife conservation and ecotourism in Sri Lanka.
 
-## 📊 GitHub Stats
+<!-- GitHub Stats with Animation -->
+<h2> 📊 GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Dev&show_icons=true&theme=radical" alt="Ravindu's GitHub Stats" />
@@ -99,21 +132,39 @@ A project aimed at promoting wildlife conservation and ecotourism in Sri Lanka.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-Dev&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=redical&hide_border=true" />
+</div>
 
-## 📫 How to reach me
+<!-- Contact Me with Icons -->
+<h2> 📫 How to reach me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></h2>
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- Twitter: [@YourTwitter](https://twitter.com/your-twitter)
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
 <!-- This animated coding GIF shows my passion for development -->
 <div align="center">
   <img src="https://github.com/Ravindu-Dev/Ravindu-Dev/blob/main/coding.gif" width="500" height="300" alt="Coding GIF">
 </div>
 
----
+<!-- Footer with Quote -->
+<hr style="border: 1px solid #00FFFF">
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
-```
+
+<!-- Footer Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&customColorList=24" alt="footer">
+</div>
