@@ -101,7 +101,7 @@ An application focused on holistic wellness, providing users with tools to track
 ### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka) (Contributor)
 A project aimed at promoting wildlife conservation and ecotourism in Sri Lanka.
 
-### 🚗 [WildLanka](https://github.com/Kalana-JY/online-vehicle-rental-system) (Contributor)
+### 🚗 [online-vehicle-rental-system](https://github.com/Kalana-JY/online-vehicle-rental-system) (Contributor)
 A web-based system developed to streamline the process of renting vehicles online, offering users a fast, reliable, and user-friendly experience across Sri Lanka.
 
 <!-- GitHub Stats with Animation -->
