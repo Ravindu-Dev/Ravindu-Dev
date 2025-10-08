@@ -18,7 +18,7 @@
 
 <!-- Animated Text -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" /></a>
+  <a   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <hr style="border: 1px solid #BB2CD9; background-color: #BB2CD9; height: 2px">
@@ -33,7 +33,7 @@
 
 <!-- Center Image with Code Animation -->
 <p align="center">
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 <hr style="border: 1px dashed #00FFFF; background-color: transparent">
