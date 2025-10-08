@@ -128,7 +128,7 @@ A web-based system developed to streamline the process of renting vehicles onlin
   <a href="mailto:ravindutvs288@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="www.linkedin.com/in/ravindu-bandara-dev">
+  <a href="https://www.linkedin.com/in/ravindu-bandara-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
