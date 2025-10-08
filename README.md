@@ -95,14 +95,14 @@ Dedicated software developer with a passion for creating innovative mobile and w
 ### 🐾 [PetGlow](https://github.com/Ravindu-Dev/PetGlow)
 A comprehensive pet care application designed to help pet owners manage their pets' health, nutrition, and activities.
 
-### 🧘‍♂️ [Wellness Health App](https://github.com/Ravindu-Dev/Wellness-Health-App)
+### 🧘‍♂️ [WellnessTracker](https://github.com/Ravindu-Dev/WellnessTracker)
 An application focused on holistic wellness, providing users with tools to track mental health, meditation practices, and overall wellbeing.
-
-### 💪 [FitnessApp](https://github.com/Ravindu-Dev/FitnessApp)
-A complete fitness solution with workout tracking, nutrition planning, and progress monitoring features.
 
 ### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka) (Contributor)
 A project aimed at promoting wildlife conservation and ecotourism in Sri Lanka.
+
+### 🚗 [WildLanka](https://github.com/Kalana-JY/online-vehicle-rental-system) (Contributor)
+A web-based system developed to streamline the process of renting vehicles online, offering users a fast, reliable, and user-friendly experience across Sri Lanka.
 
 <!-- GitHub Stats with Animation -->
 <h2> 📊 GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
