@@ -40,7 +40,7 @@
 
 ## 🚀 About Me
 
-Dedicated software developer with a passion for creating innovative mobile and web applications focused on health, wellness, and fitness. I specialize in developing user-friendly applications that help people improve their quality of life.
+Dedicated software developer with a passion for creating innovative mobile and web applications across multiple domains, including health, education, tourism, e-commerce, and enterprise solutions. I specialize in building user-friendly, scalable applications that enhance everyday experiences and improve quality of life.
 
 ## 🛠️ Skills & Technologies
 
