@@ -6,21 +6,19 @@
 <!-- Header Buttons -->
 <p align="center">
   <a href="https://github.com/Ravindu-Dev">
-    <img src="https://img.shields.io/badge/WELCOME-grey?style=for-the-badge" alt="Welcome" />
+    <img src="https://img.shields.io/badge/WELCOME-grey?style=for-the-badge" />
   </a>
   <a href="https://github.com/Ravindu-Dev">
-    <img src="https://img.shields.io/badge/TO%20MY%20GITHUB-8A2BE2?style=for-the-badge" alt="To my GitHub" />
+    <img src="https://img.shields.io/badge/TO%20MY%20GITHUB-8A2BE2?style=for-the-badge" />
   </a>
 </p>
 
 <!-- Title with Animated Hand Wave -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="hi">, I'm Ravindu Bandara</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ravindu Bandara</h1>
 
 <!-- Animated Text -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
-  </a>
+  <a   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <hr style="border: 1px solid #BB2CD9; background-color: #BB2CD9; height: 2px">
@@ -35,7 +33,7 @@
 
 <!-- Center Image with Code Animation -->
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 <hr style="border: 1px dashed #00FFFF; background-color: transparent">
@@ -91,7 +89,8 @@ Dedicated software developer with a passion for creating innovative mobile and w
 </p>
 
 <!-- Project Cards with Animation -->
-<h2> 🔭 Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="projects"></h2>
+<h2> 🔭 Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
 
 ### 🐾 [PetGlow](https://github.com/Ravindu-Dev/PetGlow)
 A comprehensive pet care application designed to help pet owners manage their pets' health, nutrition, and activities.
@@ -106,7 +105,7 @@ A project aimed at promoting wildlife conservation and ecotourism in Sri Lanka.
 A web-based system developed to streamline the process of renting vehicles online, offering users a fast, reliable, and user-friendly experience across Sri Lanka.
 
 <!-- GitHub Stats with Animation -->
-<h2> 📊 GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30" alt="stats"></h2>
+<h2> 📊 GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Dev&show_icons=true&theme=radical" alt="Ravindu's GitHub Stats" />
@@ -119,11 +118,11 @@ A web-based system developed to streamline the process of renting vehicles onlin
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=radical&hide_border=true" />
+  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=redical&hide_border=true" />
 </div>
 
 <!-- Contact Me with Icons -->
-<h2> 📫 How to reach me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" alt="contact"></h2>
+<h2> 📫 How to reach me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></h2>
 
 <div align="center">
   <a href="mailto:ravindutvs288@gmail.com">
@@ -136,7 +135,7 @@ A web-based system developed to streamline the process of renting vehicles onlin
 
 <!-- This animated coding GIF shows my passion for development -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ravindu-Dev/Ravindu-Dev/main/coding.gif" width="500" height="300" alt="Coding GIF">
+  <img src="https://github.com/Ravindu-Dev/Ravindu-Dev/blob/main/coding.gif" width="500" height="300" alt="Coding GIF">
 </div>
 
 <!-- Footer with Quote -->
