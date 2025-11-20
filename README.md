@@ -118,10 +118,6 @@ A web-based system developed to streamline the process of renting vehicles onlin
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=radical&hide_border=true" />
-</div>
-<!-- GitHub Activity Graph -->
-<div align="center">
   <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=redical&hide_border=true" />
 </div>
 
