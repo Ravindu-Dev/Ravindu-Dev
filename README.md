@@ -18,7 +18,7 @@
 
 <!-- Animated Text -->
 <p align="center">
-  <a   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <hr style="border: 1px solid #BB2CD9; background-color: #BB2CD9; height: 2px">
@@ -91,34 +91,36 @@ Dedicated software developer with a passion for creating innovative mobile and w
 <!-- Project Cards with Animation -->
 <h2> 🔭 Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-
-### 🐾 [PetGlow](https://github.com/Ravindu-Dev/PetGlow)
+### 🐾 <a href="https://github.com/Ravindu-Dev/PetGlow">PetGlow</a>
 A comprehensive pet care application designed to help pet owners manage their pets' health, nutrition, and activities.
 
-### 🧘‍♂️ [WellnessTracker](https://github.com/Ravindu-Dev/WellnessTracker)
+### 🧘‍♂️ <a href="https://github.com/Ravindu-Dev/WellnessTracker">WellnessTracker</a>
 An application focused on holistic wellness, providing users with tools to track mental health, meditation practices, and overall wellbeing.
 
-### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka) (Contributor)
+### 🌿 <a href="https://github.com/OsandaMadugalle/WildLanka">WildLanka</a> (Contributor)
 A project aimed at promoting wildlife conservation and ecotourism in Sri Lanka.
 
-### 🚗 [online-vehicle-rental-system](https://github.com/Kalana-JY/online-vehicle-rental-system) (Contributor)
+### 🚗 <a href="https://github.com/Kalana-JY/online-vehicle-rental-system">online-vehicle-rental-system</a> (Contributor)
 A web-based system developed to streamline the process of renting vehicles online, offering users a fast, reliable, and user-friendly experience across Sri Lanka.
 
 <!-- GitHub Stats with Animation -->
 <h2> 📊 GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
 
 <div align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Dev&show_icons=true&theme=radical" alt="Ravindu's GitHub Stats" />
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Dev&theme=radical" alt="Ravindu's GitHub Streak" />
 </div>
 
 <div align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-Dev&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<!-- GitHub Activity Graph -->
+<!-- GitHub Activity Graph (fixed theme name: radical) -->
 <div align="center">
-  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=redical&hide_border=true" />
+  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=radical&hide_border=true" />
 </div>
 
 <!-- Contact Me with Icons -->
