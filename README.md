@@ -109,9 +109,8 @@ A web-based system developed to streamline the process of renting vehicles onlin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Dev&show_icons=true&theme=radical" alt="Ravindu's GitHub Stats" />
- <a href="https://github.com/Ravindu-Dev">
+  <!-- demo endpoint for streaks -->
   <img src="https://streak-stats.demolab.com/?user=Ravindu-Dev&theme=radical" alt="Ravindu's GitHub Streak" />
-</a>
 </div>
 
 <div align="center">
