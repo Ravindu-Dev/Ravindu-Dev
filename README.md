@@ -109,14 +109,17 @@ A web-based system developed to streamline the process of renting vehicles onlin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Dev&show_icons=true&theme=radical" alt="Ravindu's GitHub Stats" />
-  <!-- demo endpoint for streaks -->
-  <img src="https://streak-stats.demolab.com/?user=Ravindu-Dev&theme=radical" alt="Ravindu's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Dev&theme=radical" alt="Ravindu's GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-Dev&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=radical&hide_border=true" />
+</div>
 <!-- GitHub Activity Graph -->
 <div align="center">
   <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=redical&hide_border=true" />
