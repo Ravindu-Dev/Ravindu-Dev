@@ -98,10 +98,10 @@ A comprehensive pet care application designed to help pet owners manage their pe
 ### 🧘‍♂️ [WellnessTracker](https://github.com/Ravindu-Dev/WellnessTracker)
 An application focused on holistic wellness, providing users with tools to track mental health, meditation practices, and overall wellbeing.
 
-### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka) (Contributor)
+### 🌿 [WildLanka](https://github.com/Ravindu-Dev/WildLanka) (Contributor)
 A project aimed at promoting wildlife conservation and ecotourism in Sri Lanka.
 
-### 🚗 [online-vehicle-rental-system](https://github.com/Kalana-JY/online-vehicle-rental-system) (Contributor)
+### 🚗 [online-vehicle-rental-system](https://github.com/Ravindu-Dev/online-vehicle-rental-system) (Contributor)
 A web-based system developed to streamline the process of renting vehicles online, offering users a fast, reliable, and user-friendly experience across Sri Lanka.
 
 <!-- GitHub Stats with Animation -->
