@@ -149,7 +149,7 @@ Dedicated software developer with a passion for creating innovative mobile and w
 - **Tech Stack:** `Java` · `JSP` · `MySQL` · `Tailwind CSS`
 
 <!-- =========================
-      STATS
+      STATS (COMPACT)
 ========================== -->
 <h2> 📊 GitHub Stats </h2>
 
@@ -166,10 +166,12 @@ Dedicated software developer with a passion for creating innovative mobile and w
   />
 </div>
 
-<br/>
-
 <div align="center">
-  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=redical&hide_border=true" width="85%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-Dev&layout=compact&theme=radical&hide_border=true&langs_count=10"
+    alt="Top Languages"
+    height="140"
+  />
 </div>
 
 <!-- =========================
