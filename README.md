@@ -50,7 +50,7 @@
 <!-- =========================
       SUMMARY / ABOUT
 ========================== -->
-<h3 align="center">2nd Year Undergraduate | Information Technology (IT) @ SLIIT 🎓</h3>
+<h3 align="center">3rd Year Undergraduate | Information Technology (IT) @ SLIIT 🎓</h3>
 
 <p align="center">
   <img align="center" alt="Coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -185,12 +185,9 @@ Dedicated software developer with a passion for creating innovative mobile and w
 
 <br/>
 
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <img
-    alt="Ravindu's Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=radical&hide_border=true"
-    width="96%"
-  />
+  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=redical&hide_border=true" />
 </div>
 
 <!-- =========================
