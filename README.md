@@ -11,6 +11,9 @@
   <a href="https://github.com/Ravindu-Dev">
     <img src="https://img.shields.io/badge/TO%20MY%20GITHUB-8A2BE2?style=for-the-badge" />
   </a>
+  <a href="https://wwwravindubandara.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF6C37?style=for-the-badge" />
+  </a>
 </p>
 
 <!-- Title with Animated Hand Wave -->
@@ -18,7 +21,7 @@
 
 <!-- Animated Text -->
 <p align="center">
-  <a   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <hr style="border: 1px solid #BB2CD9; background-color: #BB2CD9; height: 2px">
@@ -91,7 +94,6 @@ Dedicated software developer with a passion for creating innovative mobile and w
 <!-- Project Cards with Animation -->
 <h2> 🔭 Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-
 ### 🐾 [PetGlow](https://github.com/Ravindu-Dev/PetGlow)
 A comprehensive pet care application designed to help pet owners manage their pets' health, nutrition, and activities.
 
@@ -99,7 +101,8 @@ A comprehensive pet care application designed to help pet owners manage their pe
 An application focused on holistic wellness, providing users with tools to track mental health, meditation practices, and overall wellbeing.
 
 ### 🌿 [WildLanka](https://github.com/Ravindu-Dev/WildLanka) (Contributor)
-A project aimed at promoting wildlife conservation and ecotourism in Sri Lanka.
+A project aimed at promoting wildlife conservation and ecotourism in Sri Lanka.  
+🔗 Live Demo: https://wild-lanka.vercel.app
 
 ### 🚗 [online-vehicle-rental-system](https://github.com/Ravindu-Dev/online-vehicle-rental-system) (Contributor)
 A web-based system developed to streamline the process of renting vehicles online, offering users a fast, reliable, and user-friendly experience across Sri Lanka.
@@ -110,10 +113,6 @@ A web-based system developed to streamline the process of renting vehicles onlin
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Dev&show_icons=true&theme=radical" alt="Ravindu's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Dev&theme=radical" alt="Ravindu's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-Dev&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <!-- GitHub Activity Graph -->
@@ -128,14 +127,12 @@ A web-based system developed to streamline the process of renting vehicles onlin
   <a href="mailto:ravindutvs288@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://wa.me/94768035441?text=HiRavindu">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
   <a href="https://www.linkedin.com/in/ravindu-bandara-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-
-<!-- This animated coding GIF shows my passion for development -->
-<div align="center">
-  <img src="https://github.com/Ravindu-Dev/Ravindu-Dev/blob/main/coding.gif" width="500" height="300" alt="Coding GIF">
 </div>
 
 <!-- Footer with Quote -->
