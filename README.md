@@ -1,50 +1,66 @@
-<!-- Animated Header with Gradient Background -->
+<!-- =========================
+      HERO / HEADER
+========================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ravindu%20Bandara&fontSize=70&animation=fadeIn&fontAlignY=35&customColorList=24" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Ravindu%20Bandara&fontSize=70&animation=fadeIn&fontAlignY=35&customColorList=24" alt="header" />
 </div>
 
-<!-- Header Buttons -->
-<p align="center">
+<div align="center">
+
+  <!-- Quick Action Buttons -->
   <a href="https://github.com/Ravindu-Dev">
-    <img src="https://img.shields.io/badge/WELCOME-grey?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Ravindu-Dev">
-    <img src="https://img.shields.io/badge/TO%20MY%20GITHUB-8A2BE2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-Ravindu--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://wwwravindubandara.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF6C37?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ravindutvs288@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ravindutvs288%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/94768035441?text=HiRavindu">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/ravindu-bandara-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Ravindu%20Bandara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
+
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave" />,
+  I'm Ravindu Bandara
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=520&center=true&vCenter=true&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Title with Animated Hand Wave -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ravindu Bandara</h1>
-
-<!-- Animated Text -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ravindu-Dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<hr style="border: 1px solid #BB2CD9; background-color: #BB2CD9; height: 2px">
+<hr style="border: 1px solid #BB2CD9; background-color: #BB2CD9; height: 2px" />
 
-<!-- Subtitle -->
+<!-- =========================
+      SUMMARY / ABOUT
+========================== -->
 <h3 align="center">2nd Year Undergraduate | Information Technology (IT) @ SLIIT 🎓</h3>
 
-<!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ravindu-Dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img align="center" alt="Coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </p>
 
-<!-- Center Image with Code Animation -->
-<p align="center">
- <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-
-<hr style="border: 1px dashed #00FFFF; background-color: transparent">
+<hr style="border: 1px dashed #00FFFF; background-color: transparent" />
 
 ## 🚀 About Me
 
 Dedicated software developer with a passion for creating innovative mobile and web applications across multiple domains, including health, education, tourism, e-commerce, and enterprise solutions. I specialize in building user-friendly, scalable applications that enhance everyday experiences and improve quality of life.
 
+<!-- =========================
+      SKILLS
+========================== -->
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
@@ -91,37 +107,48 @@ Dedicated software developer with a passion for creating innovative mobile and w
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
 </p>
 
-<!-- Project Cards with Animation -->
-<h2> 🔭 Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<!-- =========================
+      PROJECTS
+========================== -->
+<h2> 🔭 Projects </h2>
 
-### 🐾 [PetGlow](https://github.com/Ravindu-Dev/PetGlow)
-A comprehensive pet care application designed to help pet owners manage their pets' health, nutrition, and activities.
+> A small selection of my work. I’m happy to share more details, code samples, or walkthroughs on request.
 
-### 🧘‍♂️ [WellnessTracker](https://github.com/Ravindu-Dev/WellnessTracker)
-An application focused on holistic wellness, providing users with tools to track mental health, meditation practices, and overall wellbeing.
+### 🐾 PetGlow
+- Repo: https://github.com/Ravindu-Dev/PetGlow  
+- A comprehensive pet care application designed to help pet owners manage their pets' health, nutrition, and activities.
 
-### 🌿 [WildLanka](https://github.com/Ravindu-Dev/WildLanka) (Contributor)
-A project aimed at promoting wildlife conservation and ecotourism in Sri Lanka.  
-🔗 Live Demo: https://wild-lanka.vercel.app
+### 🧘‍♂️ WellnessTracker
+- Repo: https://github.com/Ravindu-Dev/WellnessTracker  
+- An application focused on holistic wellness, providing users with tools to track mental health, meditation practices, and overall wellbeing.
 
-### 🚗 [online-vehicle-rental-system](https://github.com/Ravindu-Dev/online-vehicle-rental-system) (Contributor)
-A web-based system developed to streamline the process of renting vehicles online, offering users a fast, reliable, and user-friendly experience across Sri Lanka.
+### 🌿 WildLanka (Contributor)
+- Repo: https://github.com/Ravindu-Dev/WildLanka  
+- Live Demo: https://wild-lanka.vercel.app  
+- A project aimed at promoting wildlife conservation and ecotourism in Sri Lanka.
 
-<!-- GitHub Stats with Animation -->
-<h2> 📊 GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
+### 🚗 online-vehicle-rental-system (Contributor)
+- Repo: https://github.com/Ravindu-Dev/online-vehicle-rental-system  
+- A web-based system developed to streamline the process of renting vehicles online, offering users a fast, reliable, and user-friendly experience across Sri Lanka.
+
+<!-- =========================
+      STATS
+========================== -->
+<h2> 📊 GitHub Stats </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Dev&show_icons=true&theme=radical" alt="Ravindu's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Dev&theme=radical" alt="Ravindu's GitHub Streak" />
 </div>
 
-<!-- GitHub Activity Graph -->
 <div align="center">
-  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=redical&hide_border=true" />
+  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=radical&hide_border=true" />
 </div>
 
-<!-- Contact Me with Icons -->
-<h2> 📫 How to reach me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></h2>
+<!-- =========================
+      CONTACT
+========================== -->
+<h2> 📫 How to reach me </h2>
 
 <div align="center">
   <a href="mailto:ravindutvs288@gmail.com">
@@ -135,14 +162,15 @@ A web-based system developed to streamline the process of renting vehicles onlin
   </a>
 </div>
 
-<!-- Footer with Quote -->
-<hr style="border: 1px solid #00FFFF">
+<!-- =========================
+      FOOTER
+========================== -->
+<hr style="border: 1px solid #00FFFF" />
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<!-- Footer Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&customColorList=24" alt="footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&customColorList=24" alt="footer" />
 </div>
