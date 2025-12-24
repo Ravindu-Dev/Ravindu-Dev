@@ -63,23 +63,6 @@
 Dedicated software developer with a passion for creating innovative mobile and web applications across multiple domains, including health, education, tourism, e-commerce, and enterprise solutions. I specialize in building user-friendly, scalable applications that enhance everyday experiences and improve quality of life.
 
 <!-- =========================
-      QUICK CONTACT (HIGHLIGHT)
-========================== -->
-## 📌 Quick Contact
-
-<div align="center">
-  <a href="mailto:ravindutvs288@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/94768035441?text=HiRavindu">
-    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ravindu-bandara-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
-<!-- =========================
       SKILLS
 ========================== -->
 ## 🛠️ Skills & Technologies
@@ -174,20 +157,19 @@ Dedicated software developer with a passion for creating innovative mobile and w
   <img
     src="https://github-readme-stats.vercel.app/api?username=Ravindu-Dev&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
     alt="Ravindu's GitHub Stats"
-    height="165"
+    height="140"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Dev&theme=radical&hide_border=true"
     alt="Ravindu's GitHub Streak"
-    height="165"
+    height="140"
   />
 </div>
 
 <br/>
 
-<!-- GitHub Activity Graph -->
 <div align="center">
-  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=redical&hide_border=true" />
+  <img alt="Ravindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Dev&theme=redical&hide_border=true" width="85%" />
 </div>
 
 <!-- =========================
