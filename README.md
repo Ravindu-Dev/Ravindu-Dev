@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-Ravindu--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:ravindutvs288@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ravindutvs288%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-ravindutvs288%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/94768035441?text=HiRavindu">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
