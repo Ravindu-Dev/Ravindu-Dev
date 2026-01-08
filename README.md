@@ -117,19 +117,11 @@ Dedicated software developer with a passion for creating innovative mobile and w
 ========================== -->
 <h2> 🔭 Projects </h2>
 
-### 🐾 PetGlow
-> A comprehensive pet care application designed to help pet owners manage their pets' health, nutrition, and activities.
+### 🏋️‍♂️ GMS - Ultimate Gym Management System
+> A premium full-stack fitness ecosystem featuring a modern Glassmorphism UI, trainer booking marketplace, and a contactless QR entry system.
 
-- 🔗 Repository: https://github.com/Ravindu-Dev/PetGlow  
-- **Tech Stack:** `Kotlin` · `XML` · `Android Studio` · `Shared Preferences`
-
----
-
-### 🧘‍♂️ WellnessTracker
-> An application focused on holistic wellness, providing users with tools to track mental health, meditation practices, and overall wellbeing.
-
-- 🔗 Repository: https://github.com/Ravindu-Dev/WellnessTracker  
-- **Tech Stack:** `Kotlin` · `XML` · `Android Studio` · `Shared Preferences`
+- 🔗 Repository: https://github.com/Ravindu-Dev/Gym-Management-System
+- **Tech Stack:** `React` · `Java` · `Spring Boot` · `JWT` · `MongoDB`
 
 ---
 
