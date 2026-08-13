@@ -16,7 +16,7 @@
   <a href="https://github.com/Ravindu-Dev">
     <img src="https://img.shields.io/badge/GitHub-Ravindu--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:ravindutvs288@gmail.com">
+  <a href="mailto:rbsiyambalagoda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ravindutvs288%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/94768035441?text=HiRavindu">
@@ -175,7 +175,7 @@ Dedicated software developer with a passion for creating innovative mobile and w
 <h2> 📫 How to reach me </h2>
 
 <div align="center">
-  <a href="mailto:ravindutvs288@gmail.com">
+  <a href="mailto:rbsiyambalagoda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ravindutvs288%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/94768035441?text=HiRavindu">
