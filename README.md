@@ -50,7 +50,7 @@
 <!-- =========================
       SUMMARY / ABOUT
 ========================== -->
-<h3 align="center">3rd Year Undergraduate | Information Technology (IT) @ SLIIT 🎓</h3>
+<h3 align="center">4th Year Undergraduate | Information Technology (IT) @ SLIIT 🎓</h3>
 
 <p align="center">
   <img align="center" alt="Coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
